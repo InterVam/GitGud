@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">project app</string>
+    <string name="username">Username</string>
+
+    <string name="todo">TODO</string>
+    <string name="password">password</string>
+    <string name="passwor">Password</string>
+    <string name="or">OR</string>
+</resources>
