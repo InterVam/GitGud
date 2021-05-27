@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385816032757",
+    "project_id": "gitgud-database",
+    "storage_bucket": "gitgud-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385816032757:android:187e98312c64db392d9cbc",
+        "android_client_info": {
+          "package_name": "com.example.projectapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385816032757-4obpmurgs9lc85vng9e22a98dcrhbcnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKKMfJ0pXBqpfxkUBgWJE6rORrRpCNX-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385816032757-4obpmurgs9lc85vng9e22a98dcrhbcnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
